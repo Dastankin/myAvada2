@@ -1,13 +1,13 @@
 {
-  "main.css": "/myAvada2/static/css/main.27e8c94c.chunk.css",
-  "main.js": "/myAvada2/static/js/main.cc8fe04d.chunk.js",
-  "main.js.map": "/myAvada2/static/js/main.cc8fe04d.chunk.js.map",
+  "main.css": "/myAvada2/static/css/main.91ebd768.chunk.css",
+  "main.js": "/myAvada2/static/js/main.103025de.chunk.js",
+  "main.js.map": "/myAvada2/static/js/main.103025de.chunk.js.map",
   "runtime~main.js": "/myAvada2/static/js/runtime~main.fd2b4db7.js",
   "runtime~main.js.map": "/myAvada2/static/js/runtime~main.fd2b4db7.js.map",
-  "static/js/2.9c6c19e4.chunk.js": "/myAvada2/static/js/2.9c6c19e4.chunk.js",
-  "static/js/2.9c6c19e4.chunk.js.map": "/myAvada2/static/js/2.9c6c19e4.chunk.js.map",
+  "static/js/2.262f725a.chunk.js": "/myAvada2/static/js/2.262f725a.chunk.js",
+  "static/js/2.262f725a.chunk.js.map": "/myAvada2/static/js/2.262f725a.chunk.js.map",
   "index.html": "/myAvada2/index.html",
-  "precache-manifest.a04cfa852d15c468e8bf381d6a75fb34.js": "/myAvada2/precache-manifest.a04cfa852d15c468e8bf381d6a75fb34.js",
+  "precache-manifest.4d03563a9c2eb762ee9526a5d75a4122.js": "/myAvada2/precache-manifest.4d03563a9c2eb762ee9526a5d75a4122.js",
   "service-worker.js": "/myAvada2/service-worker.js",
-  "static/css/main.27e8c94c.chunk.css.map": "/myAvada2/static/css/main.27e8c94c.chunk.css.map"
+  "static/css/main.91ebd768.chunk.css.map": "/myAvada2/static/css/main.91ebd768.chunk.css.map"
 }

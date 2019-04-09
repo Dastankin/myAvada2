@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/myAvada2/precache-manifest.a04cfa852d15c468e8bf381d6a75fb34.js"
+  "/myAvada2/precache-manifest.4d03563a9c2eb762ee9526a5d75a4122.js"
 );
 
 workbox.clientsClaim();
